@@ -10,7 +10,7 @@ Adding the code to Git Repository
 1. git init
 2. git status
 3. git add .
-4. git commit -m "<Mesage>"
+4. git commit -m "<Message>"
 5. git push -u origin master
 
 Final Url - https://github.com/BharathMadesh/Sapient-Project.git
